@@ -6,6 +6,10 @@ Web developer FrontEnd
 
 Soy un un amante de la tecnología y me apasiona el mundo web, me gusta sumergirme en este inmenso mar en donde se adquieren grandes conocimientos y experiencia, en donde todos pueden colaborar y contribuir sin ninguna limitaciónn en donde el trabajo en equipo se hace notar y demuestra que los humanos logramos grandes cosas juntos. Tambien quiero ser parte de este gran avance y contribuir para que la imaginación de las ideas se hagan realidad.
 
+___
+🇺🇸
+I am a lover of technology and I am passionate about the web world, I like to immerse myself in this immense sea where great knowledge and experience are acquired, where everyone can collaborate and contribute without any limitation where teamwork is noticed and demonstrates that humans achieve great things together. I also want to be part of this breakthrough and contribute to making the imagination of ideas come true.
+
 * 🌍  I'm based in colombia
 * 🖥️  See my portfolio at [dandev.tech](http://dandev-tech.vercel.app/)
 * ✉️  You can contact me at [antoniomcs21@hotmail.com](mailto:antoniomcs21@hotmail.com)
