@@ -11,7 +11,7 @@ ___
 I am a lover of technology and I am passionate about the web world, I like to immerse myself in this immense sea where great knowledge and experience are acquired, where everyone can collaborate and contribute without any limitation where teamwork is noticed and demonstrates that humans achieve great things together. I also want to be part of this breakthrough and contribute to making the imagination of ideas come true.
 
 * 🌍  I'm based in colombia
-* 🖥️  See my portfolio at [dandev.tech](http://dandev-tech.vercel.app/)
+* 🖥️  See my portfolio at [dandev.tech](https://dantech.dev)
 * ✉️  You can contact me at [antoniomcs21@hotmail.com](mailto:antoniomcs21@hotmail.com)
 * 📚  I'm learning JavaScript and ReactJs
 * 🤝  I'm open to collaborating on Apps web, new ideas
@@ -20,7 +20,7 @@ I am a lover of technology and I am passionate about the web world, I like to im
 <a href="https://app.daily.dev/dantech99"><img src="https://api.daily.dev/devcards/v2/Woguld1LzOheqv77S2f6i.png?r=7k5&type=wide" width="652" alt="dantech's Dev Card"/></a>
 
 <a href="https://www.github.com/dantech99" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DandevMS?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/dantech99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
