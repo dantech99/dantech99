@@ -19,7 +19,7 @@ I am a lover of technology and I am passionate about the web world, I like to im
 
 <a href="https://app.daily.dev/dantech99"><img src="https://api.daily.dev/devcards/v2/Woguld1LzOheqv77S2f6i.png?r=7k5&type=wide" width="652" alt="dantech's Dev Card"/></a>
 
-<a href="https://www.github.com/DandevMS" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/dantech99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DandevMS?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
