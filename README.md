@@ -12,7 +12,7 @@ I am a lover of technology and I am passionate about the web world, I like to im
 
 * 🌍  I'm based in colombia
 * 🖥️  See my portfolio at [dandev.tech](https://dantech.dev)
-* ✉️  You can contact me at [antoniomcs21@hotmail.com](mailto:antoniomcs21@hotmail.com)
+* ✉️  You can contact me at [dantech.dev@hotmail.com](mailto:dantech.dev@hotmail.com)
 * 📚  I'm learning JavaScript and ReactJs
 * 🤝  I'm open to collaborating on Apps web, new ideas
 * ⚡  immersed in the web
